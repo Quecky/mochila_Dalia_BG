@@ -45,3 +45,6 @@ git add .
 git commit -m cambios
 git pull
 git push
+
+- Ver a qué repositorio estamos vinculados - 
+git remote -v
