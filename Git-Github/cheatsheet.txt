@@ -17,6 +17,9 @@ git checkout
 git switch @nombrerama
 git checkout @nombrerama
 
+- Ver todas las ramas y rama actual - 
+git branch -a
+
 - Crear y cambiar de rama a la vez - 
 git checkout -b @nombrenuevarama
 
