@@ -27,6 +27,9 @@ git checkout -b @nombrenuevarama
 git branch -d @nombrerama
 git branch -D @nombrerama
 
+- Para cambiar nombre de rama -
+git branch -m @oldnombrerama @newnombrerama
+
 - Para configurar cuenta github en un solo repositorio - 
 git config user.name Quecky
 git config user.email dalis@hotmail.com
@@ -51,3 +54,5 @@ git push
 
 - Ver a qué repositorio estamos vinculados - 
 git remote -v
+
+    En examen implicitamente posicionate en la rama
