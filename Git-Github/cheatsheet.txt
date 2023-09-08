@@ -51,3 +51,6 @@ git push
 
 - Ver a qué repositorio estamos vinculados - 
 git remote -v
+
+- Agregar un repositorio remoto - 
+git remote add origin URL
